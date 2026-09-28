@@ -15,7 +15,7 @@ I'm a passionate **Frontend Developer** who enjoys turning ideas into clean, res
 - 🚀 Currently exploring **Next.js** and building real-world projects
 - 🏗️ Recently built **[FITLOG](https://b14-a6-fit-log.vercel.app/)** — a fitness tracking web app made with Next.js
 - 💬 Feel free to reach out about **web development**, frontend design, or new tech ideas
-- 📍 Location: **Bangladesh**
+- 📍 Location: **Talaimari, Rajshahi, Bangladesh**
 - 📫 Email: **abirhj2010@gmail.com**
 
 ---
