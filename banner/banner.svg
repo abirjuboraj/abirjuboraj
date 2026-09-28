@@ -104,7 +104,7 @@
 <rect class="eline" x="70" y="79" width="30" height="2" rx="1" fill="url(#accent)" style="animation-delay:.1s"/>
 <text class="sans eyebrow" x="112" y="84">RESPONSIVE  &#183;  ACCESSIBLE  &#183;  PERFORMANT</text>
 </g>
-<text class="sans name in" x="70" y="142" style="animation-delay:.25s">Md. Abir Hossen</text>
+<text class="sans name in" x="70" y="142" style="animation-delay:.25s">Md. Abir Hossen Juboraj</text>
 <rect class="bar" x="70" y="162" width="96" height="4" rx="2" fill="url(#accent)" style="animation-delay:.5s"/>
 <text class="sans role in" x="70" y="206" style="animation-delay:.55s">FRONTEND DEVELOPER</text>
 
@@ -158,7 +158,7 @@
 </g>
 <g class="mono code" xml:space="preserve">
 <text x="740" y="138" class="in" style="animation-delay:.9s"><tspan class="kw">const</tspan> <tspan class="pr">developer</tspan> <tspan class="pn">= {</tspan></text>
-<text x="740" y="168" class="in" style="animation-delay:1.2s">  <tspan class="pr">name</tspan><tspan class="pn">:</tspan> <tspan class="st">"Md. Abir Hossen"</tspan><tspan class="pn">,</tspan></text>
+<text x="740" y="168" class="in" style="animation-delay:1.2s">  <tspan class="pr">name</tspan><tspan class="pn">:</tspan> <tspan class="st">"Md. Abir Hossen Juboraj"</tspan><tspan class="pn">,</tspan></text>
 <text x="740" y="198" class="in" style="animation-delay:1.5s">  <tspan class="pr">role</tspan><tspan class="pn">:</tspan> <tspan class="st">"Frontend"</tspan><tspan class="pn">,</tspan></text>
 <text x="740" y="228" class="in" style="animation-delay:1.8s">  <tspan class="pr">stack</tspan><tspan class="pn">: [</tspan><tspan class="st">"React"</tspan><tspan class="pn">,</tspan> <tspan class="st">"Next.js"</tspan><tspan class="pn">],</tspan></text>
 <text x="740" y="258" class="in" style="animation-delay:2.1s">  <tspan class="pr">building</tspan><tspan class="pn">:</tspan> <tspan class="st">"FITLOG"</tspan><tspan class="pn">,</tspan></text>
