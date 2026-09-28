@@ -1,10 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=230&section=header&text=Md.%20Abir%20Hossen&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn)
+<img src="banner/banner.svg" alt="Md. Abir Hossen, Frontend Developer" width="100%" />
 
-### 🔭 I build modern web experiences with React, TypeScript, and Next.js
-
-![Profile views](https://komarev.com/ghpvc/?username=abirjuboraj&style=flat-square&color=1e293b)
+### 🔭 Building clean, user-focused web interfaces with React, TypeScript, and Next.js
 
 </div>
 
@@ -17,7 +15,7 @@ I'm a passionate **Frontend Developer** who enjoys turning ideas into clean, res
 - 🚀 Currently exploring **Next.js** and building real-world projects
 - 🏗️ Recently built **[FITLOG](https://b14-a6-fit-log.vercel.app/)** — a fitness tracking web app made with Next.js
 - 💬 Feel free to reach out about **web development**, frontend design, or new tech ideas
-- 📍 Location: **Talaimari, Rajshahi, Bangladesh**
+- 📍 Location: **Bangladesh**
 - 📫 Email: **abirhj2010@gmail.com**
 
 ---
@@ -42,7 +40,6 @@ I'm a passionate **Frontend Developer** who enjoys turning ideas into clean, res
 
 ## 🌐 Connect With Me
 
-<!-- Add your links inside the parentheses () -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1KFmqXwP7i/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirhj2010@gmail.com)
