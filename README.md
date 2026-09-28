@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner/banner.svg" alt="Md. Abir Hossen, Frontend Developer" width="100%" />
+<img src="banner/banner.svg" alt="Md. Abir Hossen Juboraj, Frontend Developer" width="100%" />
 
 ### 🔭 Building clean, user-focused web interfaces with React, TypeScript, and Next.js
 
