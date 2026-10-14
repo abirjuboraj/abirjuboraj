@@ -179,7 +179,7 @@
 <text x="740" y="182" class="in" style="animation-delay:1.5s">  <tspan class="pr">role</tspan><tspan class="pn">:</tspan> <tspan class="st">"fullstack"</tspan><tspan class="pn">,</tspan></text>
 <text x="740" y="208" class="in" style="animation-delay:1.8s">  <tspan class="pr">stack</tspan><tspan class="pn">: [</tspan><tspan class="st">"React"</tspan><tspan class="pn">,</tspan> <tspan class="st">"Next.js"</tspan><tspan class="pn">],</tspan></text>
 <text x="740" y="234" class="in" style="animation-delay:2.1s">  <tspan class="pr">backend</tspan><tspan class="pn">: [</tspan><tspan class="st">"MongoDB"</tspan><tspan class="pn">,</tspan> <tspan class="st">"BetterAuth"</tspan><tspan class="pn">],</tspan></text>
-<text x="740" y="260" class="in" style="animation-delay:2.4s">  <tspan class="pr">building</tspan><tspan class="pn">:</tspan> <tspan class="st">"FITLOG"</tspan><tspan class="pn">,</tspan></text>
+
 <text x="740" y="286" class="in" style="animation-delay:2.7s"><tspan class="pn">};</tspan><tspan class="cursor pr">_</tspan></text>
 </g>
 <path d="M690 302h440v6a16 16 0 0 1-16 16H706a16 16 0 0 1-16-16z" fill="#131d33"/>
